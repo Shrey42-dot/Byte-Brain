@@ -61,6 +61,7 @@ Byte-Brain is a local, privacy-first malware analysis tool that performs static 
     │   │   ├── sigcheck64.exe
     │   │   ├── strings64.exe        
     │   └── README.txt
+    ├── README.md
     ├── byte-brain
     ├── .gitignore
     └── requirements.txt            # Project dependencies
